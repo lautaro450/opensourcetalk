@@ -1,0 +1,2 @@
+# opensourcetalk
+workshop about git
